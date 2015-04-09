@@ -1,0 +1,20 @@
+
+			Cite75_99 File
+			--------------
+Source: USPTO
+
+This file includes all US patent citations for utility patents 
+granted in the period 1-Jan-75 to 31-Dec-99.
+
+     No. of observations:          16,522,438
+     
+
+Variable Name    variable type    Characters     Contents
+       
+citing	         numeric          7              Citing Patent Number
+cited   	 numeric	  7		 Cited Patent Number
+
+
+The file is sorted by Citing Patent Number.
+  
+The size of the unzipped file is about 250 Mb.
