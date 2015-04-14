@@ -1,0 +1,16 @@
+package chapt6.u3
+
+class Underscore {
+ 
+}
+
+object Main {
+ def main(arr:Array[String]):Unit = {
+    val arr = Array(1,2,3,4,5)
+    println("Sum of all values in array is " + (0 /: arr){
+      (sum,elem)=>sum+elem
+    })
+    
+     println("Sum of all values in array is " + (0 /: arr){_+_})
+  }
+ }

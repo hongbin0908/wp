@@ -1,0 +1,15 @@
+
+
+/**
+ * @author abin
+ */
+class chapt_6_2_001 {
+  def totalResultOverRange(number: Int, codeBlock: Int => Int):Int = {
+    var result = 0
+    for (i <- 1 to number) {
+      result += codeBlock(i)
+    }
+    result
+  }
+  
+}
