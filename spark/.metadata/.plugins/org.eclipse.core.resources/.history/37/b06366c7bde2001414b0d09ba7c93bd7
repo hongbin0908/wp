@@ -1,0 +1,10 @@
+
+
+/**
+ * @author abin
+ */
+object SparkPi {
+  def main(args: Array[String]) {
+    val conf = new SparkConf()
+  }
+}

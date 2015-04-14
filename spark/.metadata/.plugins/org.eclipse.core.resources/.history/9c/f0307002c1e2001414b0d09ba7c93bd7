@@ -1,0 +1,13 @@
+
+
+import org.apache.spark.SparkContext
+
+object WordCount {
+  def main(args: Array[String]) {
+    val sc = new SparkContext(args(0), "WordCount", 
+        System.getenv("SPARK_HOME"), Seq(System.getenv("SPARK_TEST_JAR")))
+    
+    val textRDD = sc.textFile(args(1))
+    val result = textRDD.flatMap { case(key,value) => value.toString().split("\\s+") }
+  }
+}

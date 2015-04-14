@@ -1,0 +1,23 @@
+2015-04-14 23:26:59,649  WARN [Worker-1] - ScalaProject - Project SparkPi has platform default sourceLevel.
+2015-04-14 23:26:59,653  WARN [Worker-1] - ScalaProject - Project SparkPi runs on platform default installation.
+2015-04-14 23:27:55,812  WARN [Worker-3] - ScalaProject - Project SparkPi has platform default sourceLevel.
+2015-04-14 23:27:55,813  WARN [Worker-3] - ScalaProject - Project SparkPi runs on platform default installation.
+2015-04-14 23:27:57,860  WARN [Worker-2] - ScalaProject - Project SparkPi has platform default sourceLevel.
+2015-04-14 23:27:57,861  WARN [Worker-2] - ScalaProject - Project SparkPi runs on platform default installation.
+2015-04-14 23:36:16,770  WARN [Worker-6] - ScalaProject - Project SparkTest has platform default sourceLevel.
+2015-04-14 23:36:16,770  WARN [Worker-6] - ScalaProject - Project SparkTest runs on platform default installation.
+2015-04-14 23:44:58,708  WARN [Worker-0] - ScalaProject - Project SparkTests has platform default sourceLevel.
+2015-04-14 23:44:58,712  WARN [Worker-0] - ScalaProject - Project SparkTests runs on platform default installation.
+2015-04-14 23:47:14,094  WARN [main] - ScalaProject - Project SparkTests has platform default sourceLevel.
+2015-04-14 23:47:14,096  WARN [main] - ScalaProject - Project SparkTests runs on platform default installation.
+2015-04-14 23:50:43,800 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-14 23:50:43,802 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-14 23:50:43,802 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-14 23:50:43,802 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-14 23:55:55,085 ERROR [Worker-5] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-04-14 23:55:55,086 ERROR [Worker-5] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-04-14 23:55:55,086 ERROR [Worker-5] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-04-15 00:04:39,709  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-04-15 00:19:32,859 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-15 00:19:32,860 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-04-15 00:19:32,860 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
